@@ -1,4 +1,7 @@
 
+# 资料获取  点击  [**《基于springboot+vue协同过滤旅游推荐系统》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
+---
+
 # 一、项目概述
 
 ## 1\.1 项目背景
